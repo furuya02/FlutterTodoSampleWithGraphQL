@@ -1,0 +1,2 @@
+# FlutterTodoSampleWithGraphQL
+FlutterによるTodoアプリ Amplify GraphQL
